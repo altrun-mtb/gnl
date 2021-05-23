@@ -1,0 +1,16 @@
+Bitcoin is a cryptocurrency invented in 2008 by an unknown person or group of people using the name Satoshi Nakamoto.[8] 
+The currency began use in 2009[9] when its implementation was released as open-source software.[6]:ch. 
+1 Bitcoin is a decentralized digital currency, without a central bank or single administrator, that can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries.[7] 
+Transactions are verified by network nodes through cryptography and recorded in a public distributed ledger called a blockchain.
+
+Bitcoins are created as a reward for a process known as mining. They can be exchanged for other currencies, products, and services,[10] but the real-world value of the coins is extremely volatile.[11]
+Research produced by the University of Cambridge estimated that in 2017, there were 2.9 to 5.8 million unique users using a cryptocurrency wallet, most of them using bitcoin.[12] 
+Users choose to participate in the digital currency for a number of reasons: ideologies such as commitment to anarchism, decentralization and libertarianism, convenience, using the currency as an investment and pseudonymity of transactions. 
+Increased use has led to a desire among governments for regulation in order to tax, facilitate legal use in trade and for other reasons (such as investigations for money laundering and price manipulation).
+
+Bitcoin has been criticized for its use in illegal transactions, the large amount of electricity (and thus carbon footprint) used by mining, price volatility, and thefts from exchanges. Some economists and commentators have characterized it as a speculative bubble at various times. 
+Bitcoin has also been used as an investment, although several regulatory agencies have issued investor alerts about bitcoin.[11][13][14]
+
+The word bitcoin was defined in a white paper published on 31 October 2008.[4][15] 
+It is a compound of the words bit and coin.[16] No uniform convention for bitcoin capitalization exists; some sources use Bitcoin, capitalized, to refer to the technology and network and bitcoin, lowercase, for the unit of account.[17] 
+The Wall Street Journal,[18] The Chronicle of Higher Education,[19] and the Oxford English Dictionary[16] advocate use of lowercase bitcoin in all cases.
